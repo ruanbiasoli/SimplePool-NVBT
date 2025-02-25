@@ -2,7 +2,7 @@
 FROM python:3.11-slim
 
 # Define o diretório de trabalho dentro do container
-WORKDIR /app
+WORKDIR /
 
 # Copia apenas o arquivo de dependências inicialmente
 COPY requirements.txt /app/requirements.txt
@@ -17,7 +17,7 @@ RUN python -m venv venv \
 ENV PATH="/app/venv/bin:$PATH"
 
 # Copia o restante do código da aplicação
-COPY ./app /app
+COPY ./
 
 # Expõe a porta da API
 EXPOSE 8000
