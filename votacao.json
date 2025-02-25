@@ -1,35 +1,13 @@
 {
     "opcoes": {
         "Deuses Gregos": [
-            "Ruan"
         ],
         "Animes": [],
         "Série": [
-            "Levs",
-            "Gustavo Galaverna",
-            "marcos",
-            "Samuel"
         ],
         "Jogos": [
-            "Guilherme",
-            "Gustavo Navarro",
-            "Matheus",
-            "Sam",
-            "Pedro",
-            "Leo"
         ]
     },
     "votos_por_ip": {
-        "10.26.10.196": "Série",
-        "10.26.10.252": "Série",
-        "10.26.10.192": "Série",
-        "10.26.10.204": "Jogos",
-        "10.26.10.251": "Deuses Gregos",
-        "10.26.10.207": "Jogos",
-        "10.26.10.225": "Jogos",
-        "10.26.10.203": "Jogos",
-        "10.26.10.13": "Jogos",
-        "10.26.10.226": "Jogos",
-        "10.26.10.104": "Série"
     }
 }
